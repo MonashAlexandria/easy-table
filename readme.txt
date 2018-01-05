@@ -1,6 +1,7 @@
+Forked from easy-table plugini, https://wordpress.org/support/plugin/easy-table/
+
 === Easy Table ===
 Contributors: takien
-Donate link: http://takien.com/donate
 Tags: table,csv,csv-to-table,post,excel,csv file,widget,tablesorter
 Requires at least: 3.0
 Tested up to: 4.4.1
